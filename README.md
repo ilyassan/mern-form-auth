@@ -2,6 +2,10 @@
 
 This is a full-stack app built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It focuses on form validation in React.js with different routes. The application also implements authentication and authorization using JWT (JSON Web Tokens) for secure user access.
 
+## Why Did I Build This?
+
+My goal was to learn and implement the fundamentals of authentication, authorization, and REST APIs using Node.js with the Express.js framework for the first time, all while integrating it with React.js.
+
 ## Features
 
 - **Form Validation:** Ensures data integrity and provides a seamless user experience.
